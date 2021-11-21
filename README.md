@@ -71,5 +71,6 @@
 </tr>
 </table>
 
+* With an accuracy of 90%, the RFC 25 model should be good enough to correctly predict new exoplanets!
 
     
