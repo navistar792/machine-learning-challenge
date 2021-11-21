@@ -38,13 +38,17 @@ In this homework assignment, you will need to:
 
 * Preprocess the dataset prior to fitting the model.
 * Perform feature selection and remove unnecessary features.
-* Use `MinMaxScaler` to scale the numerical data.
 * Separate the data into training and testing data.
+* Use `MinMaxScaler` to scale the numerical data.
+* Trained and tested each model
+* Obtained training and testing scores
+
 
 ### Tune Model Parameters
 
-* Use `GridSearch` to tune model parameters.
-* Tune and compare at least two different classifiers.
+* Used `GridSearch` to tune model parameters.
+* Tune and compare at least two different classifiers. For the SVM model I used `C` and `gamma` and for Random Forest Models I used `max_depth` and ``
+
 
 ### Reporting
 
